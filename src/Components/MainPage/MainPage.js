@@ -23,11 +23,11 @@ export const MainPage = () => {
     return(
         <Wrapper>
             <Photo>
-                <img src='/wyw2.png'  alt="Project photo 1"/>
+                <img src={process.env.PUBLIC_URL +'/wyw2.png'}  alt="Project photo 1"/>
             </Photo>
             <Photo>
 
-                <img src='/wyw3.png'  alt="Project photo 2"/>
+                <img src={process.env.PUBLIC_URL +'/wyw3.png'}  alt="Project photo 2"/>
             </Photo>
         </Wrapper>
     )

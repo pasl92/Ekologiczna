@@ -38,7 +38,7 @@ export const TopBar = () => {
         <Wrapper>
             <LeftSection>
                 <Logo>
-                    <img src='/OsiedleEkologiczneBaner3.png'  alt="Project baner"/>
+                    <img src={process.env.PUBLIC_URL + "/OsiedleEkologiczneBaner3.png"}  alt="Project baner"/>
                 </Logo>
             </LeftSection>
             <RightSecrion>

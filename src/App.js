@@ -9,6 +9,7 @@ font-family: Tahoma;
 display: flex;
 flex-direction: column;
 @media screen and (max-width: 600px){
+  
     }
 `;
 
