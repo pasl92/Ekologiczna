@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ekologiczna/static/css/main.e6c13ad2.css",
-    "main.js": "/Ekologiczna/static/js/main.7467662c.js",
+    "main.js": "/Ekologiczna/static/js/main.5fbb4b9e.js",
     "static/js/787.b958c2fb.chunk.js": "/Ekologiczna/static/js/787.b958c2fb.chunk.js",
     "index.html": "/Ekologiczna/index.html",
     "main.e6c13ad2.css.map": "/Ekologiczna/static/css/main.e6c13ad2.css.map",
-    "main.7467662c.js.map": "/Ekologiczna/static/js/main.7467662c.js.map",
+    "main.5fbb4b9e.js.map": "/Ekologiczna/static/js/main.5fbb4b9e.js.map",
     "787.b958c2fb.chunk.js.map": "/Ekologiczna/static/js/787.b958c2fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7467662c.js"
+    "static/js/main.5fbb4b9e.js"
   ]
 }
