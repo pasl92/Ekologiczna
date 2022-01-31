@@ -29,6 +29,10 @@ export const MainPage = () => {
 
                 <img src={process.env.PUBLIC_URL +'/wyw3.png'}  alt="Project photo 2"/>
             </Photo>
+            <Photo>
+
+                <img src={process.env.PUBLIC_URL +'/wyw4.png'}  alt="Project photo 2"/>
+            </Photo>
         </Wrapper>
     )
 };
