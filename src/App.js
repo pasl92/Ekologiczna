@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { TopBar } from '../src/Components/TopBar/TopBar';
+import { MainPage } from '../src/Components/MainPage/MainPage';
+import styled from 'styled-components';
+import {Colors} from "./styledHelpers/Colors";
+
+
+const Wrapper =styled.div`
+font-family: Tahoma;
+display: flex;
+flex-direction: column;
+@media screen and (max-width: 600px){
+    }
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Wrapper>
+      <TopBar>
+      </TopBar>
+      <MainPage>
+
+      </MainPage>
+    </Wrapper>
   );
 }
 
