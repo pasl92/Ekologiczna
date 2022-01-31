@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ekologiczna/static/css/main.e6c13ad2.css",
+    "main.js": "/Ekologiczna/static/js/main.48bbb127.js",
+    "static/js/787.b958c2fb.chunk.js": "/Ekologiczna/static/js/787.b958c2fb.chunk.js",
+    "index.html": "/Ekologiczna/index.html",
+    "main.e6c13ad2.css.map": "/Ekologiczna/static/css/main.e6c13ad2.css.map",
+    "main.48bbb127.js.map": "/Ekologiczna/static/js/main.48bbb127.js.map",
+    "787.b958c2fb.chunk.js.map": "/Ekologiczna/static/js/787.b958c2fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48bbb127.js"
+  ]
+}
