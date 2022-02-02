@@ -23,16 +23,19 @@ export const MainPage = () => {
     return(
         <Wrapper>
             <Photo>
-                <img src={process.env.PUBLIC_URL +'/wyw2.png'}  alt="Project photo 1"/>
+                <img src={process.env.PUBLIC_URL +'/eko1.jpg'}  alt="Project photo 1"/>
             </Photo>
             <Photo>
-                <img src={process.env.PUBLIC_URL +'/wyw3.png'}  alt="Project photo 2"/>
+                <img src={process.env.PUBLIC_URL +'/eko2.jpg'}  alt="Project photo 2"/>
             </Photo>
             <Photo>
-                <img src={process.env.PUBLIC_URL +'/wyw4.png'}  alt="Project photo 2"/>
+                <img src={process.env.PUBLIC_URL +'/eko3.jpg'}  alt="Project photo 2"/>
             </Photo>
             <Photo>
-                <img src={process.env.PUBLIC_URL +'/wyw5.png'}  alt="Project photo 2"/>
+                <img src={process.env.PUBLIC_URL +'/eko4.jpg'}  alt="Project photo 2"/>
+            </Photo>
+            <Photo>
+                <img src={process.env.PUBLIC_URL +'/eko4.jpg'}  alt="Project photo 2"/>
             </Photo>
         </Wrapper>
     )
