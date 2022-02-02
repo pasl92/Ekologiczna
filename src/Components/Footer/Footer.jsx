@@ -15,6 +15,11 @@ display: flex;
 background-color: coral;
 `;
 
+const MidSection =styled.div`
+display: flex;
+background-color: coral;
+`;
+
 const RightSecrion =styled.div`
 display: flex;
 width: 96%;
@@ -31,7 +36,7 @@ export const Footer = () => {
             <LeftSection>
             </LeftSection>
               <MidSection>
-                
+                test
               </MidSection>
             <RightSecrion>
             </RightSecrion> 
